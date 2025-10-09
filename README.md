@@ -1,7 +1,7 @@
 ## Teaching Assistant Experience
 ----
 
-- **TA:** [Abolfazl Mohammadi](www.linkedin.com/in/abolfazl--mohammadi) , Asal Jafari , Mehrdad Bahjat 
+- **TA:** [Abolfazl Mohammadi](https://www.linkedin.com/in/abolfazl--mohammadi/) , Asal Jafari , Mehrdad Bahjat 
 - **Course Name:** General-Physics-III 
 - **Prof:** [Amin Nassiri-Rad](https://scholar.google.com/citations?user=R1W5McwAAAAJ&hl=en)  
 - **Institution:** K. N. Toosi University of Technology  
